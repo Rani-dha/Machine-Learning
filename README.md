@@ -1,1 +1,4 @@
-# Machine-Learning
+# Machine Learning Lab 
+
+### Experiments:
+* Naive Bayes Classifier
